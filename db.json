@@ -1,0 +1,41 @@
+{
+  "employees": [],
+  "countries": [
+    {
+      "id": "1",
+      "name": "USA"
+    },
+    {
+      "id": "2",
+      "name": "Canada"
+    },
+    {
+      "id": "3",
+      "name": "UAE"
+    },
+    {
+      "id": "4",
+      "name": "Italy"
+    },
+    {
+      "id": "5",
+      "name": "Spain"
+    },
+    {
+      "id": "6",
+      "name": "Germany"
+    },
+    {
+      "id": "7",
+      "name": "Syria"
+    },
+    {
+      "id": "8",
+      "name": "Egypt"
+    },
+    {
+      "id": "9",
+      "name": "Qatar"
+    }
+  ]
+}
